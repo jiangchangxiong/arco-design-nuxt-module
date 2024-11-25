@@ -1,5 +1,5 @@
 {
-  "name": "arco-design-nuxt-module",
+  "name": "arco-nuxt-module",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@9.1.1",
